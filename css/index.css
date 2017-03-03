@@ -30,6 +30,14 @@
 	margin-top: 12px;
 }
 
+.lista-os {
+	margin-top: 30px;
+}
+
+.paginacao .pagination {
+	margin: 0;
+}
+
 @media (max-width: 767px){
 	.perfil {
 		color: #fff;
@@ -42,6 +50,13 @@
 	.perfil a:hover{
 		text-decoration: none;
 		color: #fff;
+	}
+	.paginacao {
+		text-align: center;
+	}
+
+	.paginacao .pagination {
+		margin-top: 30px;
 	}
 }
 
