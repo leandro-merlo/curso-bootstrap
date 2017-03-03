@@ -30,6 +30,6 @@ body {
 
 @media (max-height: 320px){
 	.login-form {
-		
+		transform: translateY(-35%);		
 	}
 }
